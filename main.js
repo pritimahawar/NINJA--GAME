@@ -13,7 +13,7 @@ randomNumber = 0;
 
 function preload() {
   //loading images
-  player = loadAnimation("assets/player1.png", "assets/player2.png", "assets/player3.png", "assets/player4.PNG", "assets/player5.png");
+  player = loadAnimation("assets/player1.png", "assets/player2.png", "assets/player3.png", "assets/player4.png", "assets/player5.png");
   bomb = loadImage("assets/bomb.png");
   coin = loadImage("assets/coin.png");
   path = loadImage("assets/path.png");
